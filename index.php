@@ -3,6 +3,6 @@
 		<title>PHP Test</title>
 	</head>
 	<body>
-		<?php echo '<p>Webhook 3</p>'; ?>
+		<?php echo '<p>Webhook 1</p>'; ?>
 	</body>
 </html>
